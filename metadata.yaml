@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9353
     wikipedia: http://en.wikipedia.org/wiki/William_Aldis_Wright
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21434#Letters-of-Edward-FitzGerald-to-Fanny-Kemble--1871-1883-
 gutenberg_issued: '2007-05-14'
 gutenberg_type: Text
 identifiers:
