@@ -1,0 +1,39 @@
+_repo: Letters-of-Edward-FitzGerald-to-Fanny-Kemble--1871-1883-_21434
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: FitzGerald, Edward
+    alias: Purcell, Edward
+    birthdate: 1809
+    deathdate: 1883
+    gutenberg_agent_id: '138'
+    url: http://www.gutenberg.org/2009/agents/138
+    wikipedia: http://en.wikipedia.org/wiki/Edward_FitzGerald_%28poet%29
+  editor:
+    agent_name: Wright, William Aldis
+    alias: Wright, W. Aldis (William Aldis)
+    birthdate: 1831
+    deathdate: 1914
+    gutenberg_agent_id: '9353'
+    url: http://www.gutenberg.org/2009/agents/9353
+    wikipedia: http://en.wikipedia.org/wiki/William_Aldis_Wright
+description: ''
+gutenberg_issued: '2007-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21434'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'FitzGerald, Edward, 1809-1883 -- Correspondence'
+- !lcsh 'Authors, English -- 19th century -- Correspondence'
+- !lcc 'PR'
+- !lcsh 'Kemble, Fanny, 1809-1893 -- Correspondence'
+- !lcsh 'FitzGerald, Edward, 1809-1883'
+title: Letters of Edward FitzGerald to Fanny Kemble (1871-1883)
+url: http://www.gutenberg.org/ebooks/21434
